@@ -1,5 +1,5 @@
 # Magic Square
-Check if a two dimensional array is a magic square and/or lo-shu NUMBER square. Write a program to input and test if entered numbers are magic squares. A simple magic square is where all the numbers in the square add to the same value across the rows, columns and diagonal. Your program should also check if the square is a Lo Shu magic square. A Lo Shu magic square is a magic square that uses only the digits 1 to 9, without repeating a digit.
+A java application to input and test if entered a two dimensional array is a magic square. A simple magic square is where all the numbers in the square add to the same value across the rows, columns and diagonal. This application also checks if the number square is a Lo Shu magic square. A Lo Shu magic square is a magic square that uses only the digits 1 to 9, without repeating a digit.
 
 ## Getting Started
 
